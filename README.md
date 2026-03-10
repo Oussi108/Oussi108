@@ -4,20 +4,20 @@ I build apps and tools with a focus on **Flutter (Dart)**, **Python**, and **web
 
 - Portfolio: https://el-houcine-oussi.web.app/
 - Main interests: **Flutter apps**, **web apps**, **automation / Python**, **desktop tools**
-- Open to: internships / junior roles / freelance (edit this line)
+- Open to: internships / junior roles / freelance 
 
 ---
 
 ## Featured Projects (from my GitHub)
 
-### 🔗 connect two people (Mobile) — connect two people
-A Flutter mobile app that helps **connect two people** (you can expand this with “matching”, “chat”, “compatibility”, etc.).
+### 🔗 connect two people (Mobile) 
+A Flutter mobile app that helps **connect two people** 
 - Repo: https://github.com/Oussi108/love_check
 - Tech: Dart / Flutter
 
 ### 🌐 mobile Web (Web)
 Web version / companion for Love Check.
-- Tech: Web (edit with your exact stack)
+- Tech: Web 
 
 ### 🗺️ Hanpath
 A web project with **HTML** + **Python**.
@@ -40,7 +40,7 @@ My portfolio repository.
 ## Tech Stack
 - **Mobile:** Flutter (Dart)
 - **Backend / Scripting:** Python
-- **Web:** HTML / CSS / JavaScript (add frameworks if you use them)
+- **Web:** HTML / CSS / JavaScript 
 - **Tools:** Git / GitHub
 
 ---
