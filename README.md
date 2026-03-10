@@ -10,12 +10,12 @@ I build apps and tools with a focus on **Flutter (Dart)**, **Python**, and **web
 
 ## Featured Projects (from my GitHub)
 
-### ❤️ Love Check (Mobile)
-A Flutter mobile app project built mainly with **Dart**.
+### 🔗 connect two people (Mobile) — connect two people
+A Flutter mobile app that helps **connect two people** (you can expand this with “matching”, “chat”, “compatibility”, etc.).
 - Repo: https://github.com/Oussi108/love_check
 - Tech: Dart / Flutter
 
-### 🌐 LoveCheckWeb (Web)
+### 🌐 mobile Web (Web)
 Web version / companion for Love Check.
 - Repo: https://github.com/Oussi108/lovecheckweb
 - Tech: Web (edit with your exact stack)
