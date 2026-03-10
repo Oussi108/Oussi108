@@ -17,7 +17,6 @@ A Flutter mobile app that helps **connect two people** (you can expand this with
 
 ### 🌐 mobile Web (Web)
 Web version / companion for Love Check.
-- Repo: https://github.com/Oussi108/lovecheckweb
 - Tech: Web (edit with your exact stack)
 
 ### 🗺️ Hanpath
@@ -27,7 +26,6 @@ A web project with **HTML** + **Python**.
 
 ### 🧑‍⚖️ DesktopJudge
 Desktop app/tool project.
-- Repo: https://github.com/Oussi108/desktopjudge
 
 ### 🗂️ DesktopCaseManger
 Desktop case management project.
