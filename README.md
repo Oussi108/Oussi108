@@ -16,7 +16,7 @@
 <a href="https://scholar.google.com/citations?user=XXXX"><img src="https://img.shields.io/badge/Google%20Scholar-4285F4?style=for-the-badge&logo=googlescholar&logoColor=white" alt="Google Scholar"></a>
 -->
 
-### 🎓 Seeking a fully funded PhD position in solar and renewable energy forecasting
+### 🎓 Seeking a fully funded PhD position from 2027 in solar and renewable energy forecasting
 
 </div>
 
