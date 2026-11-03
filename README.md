@@ -10,6 +10,10 @@
 <a href="mailto:oussi108@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"></a>
 <a href="https://www.linkedin.com/in/el-houcine-oussi-5abb8a1b7"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
 <a href="https://oussi108.github.io/"><img src="https://img.shields.io/badge/Portfolio-111827?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio"></a>
+<br>
+<a href="https://oussi108.github.io/assets/docs/CV_English.pdf"><img src="https://img.shields.io/badge/CV-English%20(PDF)-4F46E5?style=for-the-badge&logo=adobeacrobatreader&logoColor=white" alt="CV English"></a>
+<a href="https://oussi108.github.io/assets/docs/CV_Chinese.pdf"><img src="https://img.shields.io/badge/简历-中文版%20(PDF)-DC2626?style=for-the-badge&logo=adobeacrobatreader&logoColor=white" alt="中文简历"></a>
+<a href="https://oussi108.github.io/assets/docs/CV_French.pdf"><img src="https://img.shields.io/badge/CV-Français%20(PDF)-0284C7?style=for-the-badge&logo=adobeacrobatreader&logoColor=white" alt="CV French"></a>
 <!-- Add when ready:
 <a href="https://www.kaggle.com/oussielhoucine"><img src="https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white" alt="Kaggle"></a>
 <a href="https://orcid.org/0000-0000-0000-0000"><img src="https://img.shields.io/badge/ORCID-A6CE39?style=for-the-badge&logo=orcid&logoColor=white" alt="ORCID"></a>
