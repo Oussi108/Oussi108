@@ -98,9 +98,7 @@ From minutes to a day ahead: which inputs help at which horizon, and when foreca
 ## 📂 Featured Code & Repositories
 
 - ☀️ **[pv-forecast-reference-evaluation](https://github.com/Oussi108/pv-forecast-reference-evaluation)** — Reference specifications & benchmarks for hourly PV power forecasting with reproducible evaluation suites · [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.23590205.svg)](https://doi.org/10.5281/zenodo.23590205)
-- 🦉 **[odysseus](https://github.com/Oussi108/odysseus)** — Self-hosted private AI workspace with local Ollama, multi-agent pipelines & document search
-- 🛡️ **[strix](https://github.com/Oussi108/strix)** — Open-source AI automated penetration-testing framework for ethical security audits
-- 📱 Earlier software projects: [HomeRealm](https://github.com/Oussi108/HomeRealm) · [Project_petshop_JEE](https://github.com/Oussi108/Project_petshop_JEE) · [taskwithauthdotnet](https://github.com/Oussi108/taskwithauthdotnet)
+- 💻 **Software Engineering Projects:** [HomeRealm](https://github.com/Oussi108/HomeRealm) · [Expression-Compiler-In-CSharp](https://github.com/Oussi108/Expression-Compiler-In-CSharp) · [taskwithauthdotnet](https://github.com/Oussi108/taskwithauthdotnet) · [Project_petshop_JEE](https://github.com/Oussi108/Project_petshop_JEE) · [MapWithAuth](https://github.com/Oussi108/MapWithAuth)
 
 ---
 
