@@ -16,7 +16,7 @@
 <a href="https://scholar.google.com/citations?user=XXXX"><img src="https://img.shields.io/badge/Google%20Scholar-4285F4?style=for-the-badge&logo=googlescholar&logoColor=white" alt="Google Scholar"></a>
 -->
 
-### 🎓 Seeking a fully funded PhD position from 2027 in solar and renewable energy forecasting
+### 💼 Open to Software Engineering, Machine Learning & Applied Research Opportunities
 
 </div>
 
@@ -103,5 +103,5 @@ From minutes to a day ahead: which inputs help at which horizon, and when foreca
 ---
 
 <div align="center">
-<sub>Open to PhD positions, research collaborations and questions about solar forecasting – feel free to reach out.</sub>
+<sub>Open to software engineering roles, technical collaborations, and research inquiries – feel free to reach out.</sub>
 </div>
