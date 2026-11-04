@@ -40,6 +40,7 @@ and when does better accuracy turn into better decisions?**
 
 | | Study | Horizon | Data | Status |
 |:--:|---|:--:|---|:--:|
+| 🏠 | **BriefCensus** – rooftop PV monitor selection & fleet estimation via short metering campaigns | 4-week campaign | UK regional fleets (16 & 12) · Ausgrid hold-out | [![Zenodo DOI](https://img.shields.io/badge/Zenodo-10.5281%2Fzenodo.23950665-0284c7?style=flat-square)](https://doi.org/10.5281/zenodo.23950665) |
 | ☁️ | **Sky-image nowcasting** – do sky images add value beyond recent PV history? | 5–30 min | Stanford SKIPP'D | ![experiments complete](https://img.shields.io/badge/experiments-complete-6f42c1?style=flat-square) |
 | 🛰️ | **Solar farms up to 6 h ahead** with Himawari / Meteosat imagery and issued weather forecasts | 0.5–6 h | 50 Australian solar farms (AEMO) · 94 UK virtual farms | ![final test running](https://img.shields.io/badge/final%20test-running-f59e0b?style=flat-square) |
 | 📈 | **Reference specification and model updating** – how much do references, retraining and calibration change measured skill? | 2–12 h | DKASC Alice Springs · 31 HKUST rooftops · NREL PVDAQ 9068 | ![working on paper](https://img.shields.io/badge/working%20on%20paper-2ea44f?style=flat-square) |
@@ -64,6 +65,7 @@ From minutes to a day ahead: which inputs help at which horizon, and when foreca
 <summary><b>💡 Findings so far</b> (click to open)</summary>
 <br>
 
+- A 4-week temporary metering campaign with greedy selection retained **79.0%–81.5%** of one-year information gain across UK fleets and **79.6%** on Ausgrid.
 - Specifying the smart-persistence reference correctly cut reported skill at the Hong Kong testbed from **54–57% to 7–13%**.
 - Monthly retraining gave six-hour gains over previous-day persistence of **+6.9%** (HKUST) and **+10.0%** (PVDAQ 9068, 2023).
 - A battery scheduler that uses the full forecast distribution **lowered cost for all 40 real households** tested.
@@ -94,6 +96,7 @@ From minutes to a day ahead: which inputs help at which horizon, and when foreca
 
 ## 🔬 Research & Studies in Progress
 
+- **BriefCensus: A short metering campaign that chooses permanent monitors for rooftop photovoltaic fleet estimation and forecasting** – open code, protocol & run logs (Zenodo DOI: [10.5281/zenodo.23950665](https://doi.org/10.5281/zenodo.23950665), 2026)
 - **Reference specification, model updating and calibration population in hourly photovoltaic power forecasting** – working on paper (2026)
 - **When do probabilistic solar forecasts earn their keep? Forecast quality, distributional validity and operational value in behind-the-meter battery scheduling** – working on paper (2026)
 - **Multi-site satellite and numerical weather prediction fusion across 50 solar farms** – working on paper (2026)
@@ -101,6 +104,7 @@ From minutes to a day ahead: which inputs help at which horizon, and when foreca
 
 ## 📂 Featured Code & Repositories
 
+- ☀️ **[briefcensus](https://github.com/Oussi108/briefcensus)** — A short metering campaign that chooses permanent monitors for rooftop photovoltaic fleet estimation and forecasting · [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.23950665.svg)](https://doi.org/10.5281/zenodo.23950665)
 - ☀️ **[pv-forecast-reference-evaluation](https://github.com/Oussi108/pv-forecast-reference-evaluation)** — Reference specifications & benchmarks for hourly PV power forecasting with reproducible evaluation suites · [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.23590205.svg)](https://doi.org/10.5281/zenodo.23590205)
 - 💻 **Software Engineering Projects:** [HomeRealm](https://github.com/Oussi108/HomeRealm) · [Expression-Compiler-In-CSharp](https://github.com/Oussi108/Expression-Compiler-In-CSharp) · [taskwithauthdotnet](https://github.com/Oussi108/taskwithauthdotnet) · [Project_petshop_JEE](https://github.com/Oussi108/Project_petshop_JEE) · [MapWithAuth](https://github.com/Oussi108/MapWithAuth)
 
