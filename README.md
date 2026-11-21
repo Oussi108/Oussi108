@@ -2,114 +2,138 @@
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="assets/banner-dark.svg">
-  <img src="assets/banner-light.svg" alt="El Houcine Oussi – machine learning for solar power forecasting" width="100%">
+  <img src="assets/banner-light.svg" alt="El Houcine Oussi — Solar Forecasting Researcher and Software Engineer" width="100%">
 </picture>
 
 <br><br>
 
-<a href="mailto:oussi108@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"></a>
-<a href="https://www.linkedin.com/in/el-houcine-oussi-5abb8a1b7"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
-<a href="https://oussi108.github.io/"><img src="https://img.shields.io/badge/Portfolio-111827?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio"></a>
+<a href="https://oussi108.github.io/"><img src="https://img.shields.io/badge/Portfolio-oussi108.github.io-B84A0B?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio"></a>
+<a href="https://www.linkedin.com/in/el-houcine-oussi-5abb8a1b7"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
+<a href="mailto:oussi108@gmail.com"><img src="https://img.shields.io/badge/Email-oussi108%40gmail.com-191815?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"></a>
 <br>
-<a href="https://oussi108.github.io/assets/docs/CV_English.pdf"><img src="https://img.shields.io/badge/CV-English%20(PDF)-4F46E5?style=for-the-badge&logo=adobeacrobatreader&logoColor=white" alt="CV English"></a>
-<a href="https://oussi108.github.io/assets/docs/CV_Chinese.pdf"><img src="https://img.shields.io/badge/简历-中文版%20(PDF)-DC2626?style=for-the-badge&logo=adobeacrobatreader&logoColor=white" alt="中文简历"></a>
-<a href="https://oussi108.github.io/assets/docs/CV_French.pdf"><img src="https://img.shields.io/badge/CV-Français%20(PDF)-0284C7?style=for-the-badge&logo=adobeacrobatreader&logoColor=white" alt="CV French"></a>
-<!-- Add when ready:
-<a href="https://www.kaggle.com/oussielhoucine"><img src="https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white" alt="Kaggle"></a>
-<a href="https://orcid.org/0000-0000-0000-0000"><img src="https://img.shields.io/badge/ORCID-A6CE39?style=for-the-badge&logo=orcid&logoColor=white" alt="ORCID"></a>
-<a href="https://scholar.google.com/citations?user=XXXX"><img src="https://img.shields.io/badge/Google%20Scholar-4285F4?style=for-the-badge&logo=googlescholar&logoColor=white" alt="Google Scholar"></a>
--->
+<a href="https://oussi108.github.io/assets/docs/CV_English.pdf"><img src="https://img.shields.io/badge/CV-English%20(PDF)-0E6F6E?style=for-the-badge&logo=adobeacrobatreader&logoColor=white" alt="CV English"></a>
+<a href="https://oussi108.github.io/assets/docs/CV_Chinese.pdf"><img src="https://img.shields.io/badge/简历-中文版%20(PDF)-334155?style=for-the-badge&logo=adobeacrobatreader&logoColor=white" alt="中文简历"></a>
+<a href="https://oussi108.github.io/assets/docs/CV_French.pdf"><img src="https://img.shields.io/badge/CV-Français%20(PDF)-334155?style=for-the-badge&logo=adobeacrobatreader&logoColor=white" alt="CV French"></a>
 
-### 💼 Open to Software Engineering, Machine Learning & Applied Research Opportunities
+<br>
+
+**Open to Software Engineering, Machine Learning Engineering & Applied Research Roles · Global / Remote**
+
+<br>
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="assets/highlights-dark.svg">
+  <img src="assets/highlights-light.svg" alt="Key highlights: 144 solar farms, ~80% gain kept, 2 Zenodo DOIs, Full-Stack + ML" width="100%">
+</picture>
 
 </div>
 
 ---
 
-## 👋 About me
+## 👋 About Me
 
-I'm an M.Sc. student in Computer Science at **Nanjing University of Information Science and Technology (NUIST)**, China.
-My research asks a practical question: **which learned solar forecasts actually beat simple references, at which horizon,
-and when does better accuracy turn into better decisions?**
+I'm an M.Sc. student in Computer Science at **Nanjing University of Information Science and Technology (NUIST)** working with Prof. Ling Tan, and a State Engineer in Information Systems (**SUPMTI**, Morocco).
 
-- 🔭 **Now:** running the final held-out test of a 4–6 h satellite + weather-forecast model for 50 Australian solar farms
-- 🛠️ **Background:** software engineer (C#/.NET, Java, Flutter) turned forecasting researcher
-- 🌍 **Languages:** Arabic · English · French · Mandarin (HSK 3)
+I bridge **empirical ML research** and **production software engineering** — running scientific experiments with the same discipline used to ship reliable software: pre-registered protocols, byte-identical reruns, SHA-256 checksum manifests, and automated `pytest` suites.
 
-## 🔬 Research at a glance
+<table>
+<tr>
+<td width="50%" valign="top">
 
-| | Study | Horizon | Data | Status |
-|:--:|---|:--:|---|:--:|
-| 🏠 | **BriefCensus** – rooftop PV monitor selection & fleet estimation via short metering campaigns | 4-week campaign | UK regional fleets (16 & 12) · Ausgrid hold-out | [![Zenodo DOI](https://img.shields.io/badge/Zenodo-10.5281%2Fzenodo.23950665-0284c7?style=flat-square)](https://doi.org/10.5281/zenodo.23950665) |
-| ☁️ | **Sky-image nowcasting** – do sky images add value beyond recent PV history? | 5–30 min | Stanford SKIPP'D | ![experiments complete](https://img.shields.io/badge/experiments-complete-6f42c1?style=flat-square) |
-| 🛰️ | **Solar farms up to 6 h ahead** with Himawari / Meteosat imagery and issued weather forecasts | 0.5–6 h | 50 Australian solar farms (AEMO) · 94 UK virtual farms | ![final test running](https://img.shields.io/badge/final%20test-running-f59e0b?style=flat-square) |
-| 📈 | **Reference specification and model updating** – how much do references, retraining and calibration change measured skill? | 2–12 h | DKASC Alice Springs · 31 HKUST rooftops · NREL PVDAQ 9068 | ![working on paper](https://img.shields.io/badge/working%20on%20paper-2ea44f?style=flat-square) |
-| 🔋 | **From forecast quality to value** – probabilistic forecasts for home-battery scheduling | day-ahead | 91,290 simulated scenarios · 40 Ausgrid households | ![working on paper](https://img.shields.io/badge/working%20on%20paper-2ea44f?style=flat-square) |
+### 🔬 Research Ability
+- **Core question:** *Which learned solar forecasts actually beat strong reference baselines, at which horizons, and when does extra accuracy create operational value?*
+- **Multi-horizon modeling:** LightGBM, GRU, and compact Transformers fusing geostationary satellites (Himawari-8/9, Meteosat SEVIRI) with ECMWF ERA5 weather fields.
+- **Statistical & open-science rigor:** Pre-registered protocols, paired bootstrap confidence intervals, Holm correction, transparent negative results, and **2 permanent Zenodo DOI archives**.
 
-### How the studies fit together
+</td>
+<td width="50%" valign="top">
+
+### 💻 Coding & Engineering Ability
+- **Systems & Backend:** Production REST microservices in **ASP.NET Core (C#)** & **Django (Python)** following Clean Architecture, DDD, RBAC, and stateless JWT authentication.
+- **Mobile & Compilers:** Cross-platform apps in **Flutter (Riverpod MVVM, Firebase, SQLite)**, hybrid Ionic/Capacitor apps, and a from-scratch **C# recursive-descent expression compiler**.
+- **Data & MLOps:** Multi-terabyte spatio-temporal pipelines (`PyTorch`, `pvlib`, `pandas`, `NumPy`), Dockerized environments, CI/CD, and SQL query optimization (-35% latency).
+
+</td>
+</tr>
+</table>
+
+---
+
+## 🔬 Research Portfolio
 
 ```mermaid
 flowchart LR
-    A["☁️ Sky images<br/>5–30 min"] --> B["🛰️ Satellite + weather forecasts<br/>0.5–6 h"]
-    B --> C["📈 Ground observations<br/>2–12 h"]
-    C --> D["🔋 Battery scheduling<br/>day-ahead value"]
-    classDef horizon fill:#FFF4DE,stroke:#E8890C,color:#1F2937
-    classDef value fill:#E8F1FB,stroke:#2563EB,color:#1F2937
+    A["☁️ Sky Images<br/>5–30 min"] --> B["🛰️ Satellite + NWP<br/>0.5–6 h · 144 farms"]
+    B --> C["📈 Reference & Drift<br/>2–12 h · 3 climates"]
+    C --> D["🏠 BriefCensus<br/>4-wk fleet selection"]
+    D --> E["🔋 Battery Value<br/>Day-ahead · 40 homes"]
+    classDef horizon fill:#F9EADB,stroke:#B84A0B,color:#191815,stroke-width:1.5px
+    classDef value fill:#E2F2F0,stroke:#0E6F6E,color:#191815,stroke-width:1.5px
     class A,B,C horizon
-    class D value
+    class D,E value
 ```
 
-From minutes to a day ahead: which inputs help at which horizon, and when forecast accuracy becomes operational value.
+| Study | Horizon | Scale & Data | Key Result | Artifact / Status |
+|---|:--:|---|---|---|
+| **[BriefCensus](https://github.com/Oussi108/briefcensus)** — short metering campaign & forward greedy permanent monitor selection | `4-wk campaign` | UK fleets (16 & 12 regions) · Ausgrid hold-out | Retained **79.0–81.5%** (UK) & **79.6%** (AU) of 1-yr gain | [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.23950665.svg)](https://doi.org/10.5281/zenodo.23950665) |
+| **[Reference Spec & Retraining](https://github.com/Oussi108/pv-forecast-reference-evaluation)** — how references, retraining & calibration shift skill | `2–12 h` | DKASC Alice Springs · 31 HKUST rooftops · NREL PVDAQ 9068 | Proper reference cut apparent skill **54–57% → 7–13%**; retraining **+6.9–10.0%** | [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.23590205.svg)](https://doi.org/10.5281/zenodo.23590205) |
+| **Forecast Quality → Operational Value** — probabilistic behind-the-meter battery scheduling | `Day-ahead` | 91,290 simulated scenarios · 40 real Ausgrid households | Full-distribution scheduler cut bills in **40 / 40 homes** | ![working on paper](https://img.shields.io/badge/working%20on%20paper-B84A0B?style=flat-square) |
+| **Multi-Site Solar Farm Fusion** — Himawari / Meteosat imagery + issued NWP forecasts | `0.5–6 h` | 50 Australian solar farms (AEMO) · 94 UK virtual farms | Multi-continent held-out spatial generalization benchmark | ![final test running](https://img.shields.io/badge/final%20test-running-D97706?style=flat-square) |
+| **Sky-Image Nowcasting** — does ground sky-camera imagery beat PV history alone? | `5–30 min` | Stanford SKIPP'D | **No established gain** over PV-history LightGBM (reported transparently) | ![experiments complete](https://img.shields.io/badge/experiments-complete-0E6F6E?style=flat-square) |
 
 <details>
-<summary><b>💡 Findings so far</b> (click to open)</summary>
+<summary><b>🧪 Research Engineering Standards & Verification Checklist</b> (click to expand)</summary>
 <br>
 
-- A 4-week temporary metering campaign with greedy selection retained **79.0%–81.5%** of one-year information gain across UK fleets and **79.6%** on Ausgrid.
-- Specifying the smart-persistence reference correctly cut reported skill at the Hong Kong testbed from **54–57% to 7–13%**.
-- Monthly retraining gave six-hour gains over previous-day persistence of **+6.9%** (HKUST) and **+10.0%** (PVDAQ 9068, 2023).
-- A battery scheduler that uses the full forecast distribution **lowered cost for all 40 real households** tested.
-- Sky images gave **no established gain** over a PV-history LightGBM model on SKIPP'D – a negative result I report as one.
+| 🔒 Pre-Registered Plans | 📏 Honest Statistics | ♻️ Byte-Reproducible Pipelines |
+|---|---|---|
+| Protocols (`PROTOCOL_v1/v2.md`) committed before scoring; held-out test sets evaluated once | Paired bootstrap confidence intervals, Holm multiple-testing correction, negative results kept | Deterministic seeds, SHA-256 `RUN_LOG.md` checksums, pinned environments, automated `pytest` suites |
 
 </details>
 
-## 🧪 How I work
+---
 
-| 🔒 Fixed plans | 📏 Honest statistics | ♻️ Reproducible code |
-|---|---|---|
-| Analysis plans written before the final test; held-out test sets scored once | Paired bootstrap confidence intervals, Holm correction, negative results kept | pytest suites, checksum manifests, pinned environments |
+## 💻 Coding & Software Engineering Showcase
 
-## 🧰 Toolbox
+### Open-Science & Machine Learning Systems
+| Project | Stack | Engineering & Algorithmic Highlights | Links |
+|---|---|---|---|
+| **[briefcensus](https://github.com/Oussi108/briefcensus)** | `Python` `NumPy` `pandas` `pytest` | Forward greedy subset-selection solver, outage filtering, weight-free day-rule fleet estimator, pre-registered protocols, SHA-256 run verification | [Code](https://github.com/Oussi108/briefcensus) · [Zenodo](https://doi.org/10.5281/zenodo.23950665) |
+| **[pv-forecast-reference-evaluation](https://github.com/Oussi108/pv-forecast-reference-evaluation)** | `Python` `PyTorch` `LightGBM` `pvlib` | End-to-end multi-horizon benchmarking harness across LightGBM, GRU & compact Transformers with strict leakage controls & manifest hashing | [Code](https://github.com/Oussi108/pv-forecast-reference-evaluation) · [Zenodo](https://doi.org/10.5281/zenodo.23590205) |
 
-<p>
-  <img src="https://skillicons.dev/icons?i=py,pytorch,git,github,docker,cs,dotnet,java,flutter,django,react,angular&perline=12" alt="Python, PyTorch, Git, GitHub, Docker, C#, .NET, Java, Flutter, Django, React, Angular">
+### Production Software, Compilers & Full-Stack Architecture
+| Project | Stack | Architecture & Engineering Highlights | Links |
+|---|---|---|---|
+| **[Expression Compiler](https://github.com/Oussi108/Complier_EXP_math)** | `C#` `.NET` | From-scratch math expression compiler: lexical tokenizer, recursive-descent parser enforcing operator precedence/associativity, and post-order AST evaluator | [GitHub](https://github.com/Oussi108/Complier_EXP_math) |
+| **[Task With Auth .NET](https://github.com/Oussi108/taskwithauthdotnet)** | `ASP.NET Core` `C#` `EF Core` `SQL Server` | Clean Architecture & Domain-Driven Design (DDD) REST microservice featuring stateless JWT access + refresh tokens, role-based authorization, and migrations | [GitHub](https://github.com/Oussi108/taskwithauthdotnet) |
+| **[Connect Check](https://lovecheckapp.web.app/)** | `Flutter` `Dart` `Firebase` `Riverpod` `SQLite` | Live real-time synced two-player app with Firebase Realtime Database rooms, reactive MVVM state management, i18n, and offline SQLite cache | [Live App](https://lovecheckapp.web.app/) |
+| **[EcoBeach Platform](https://oussi108.github.io/assets/docs/ecobeach.pdf)** | `.NET Core` `Flutter` `SQL Server` `IoT` | Coastal environmental monitoring system combining Clean Architecture REST APIs, time-series + relational schemas, and a Flutter field operator client | [Design Report](https://oussi108.github.io/assets/docs/ecobeach.pdf) |
+| **[Map With Auth](https://github.com/Oussi108/mapwithauth)** | `Angular` `Ionic` `Capacitor` `TypeScript` | Cross-platform hybrid mobile & web geolocation app integrating native GPS sensors with authenticated user place bookmarks & route pins | [GitHub](https://github.com/Oussi108/mapwithauth) |
+| **[Project_petshop_JEE](https://github.com/Oussi108/Project_petshop_JEE)** · **[HomeRealm](https://github.com/Oussi108/HomeRealm)** | `Java EE` `Web` `SQL` | Multi-tier enterprise web application engineering, MVC request routing, and relational persistence layers | [Petshop JEE](https://github.com/Oussi108/Project_petshop_JEE) · [HomeRealm](https://github.com/Oussi108/HomeRealm) |
+
+### Industry & Lab Experience
+- **Graduate AI & Data Science Researcher · NUIST Renewable Energy AI Lab** *(2024–present, Nanjing)* — Multi-horizon solar ML pipelines across 144 farms with Himawari/Meteosat satellite & ERA5 weather fusion.
+- **Backend & Mobile Engineering Intern · Majal Berkane Smart City** *(2024, Morocco)* — Built Flutter (Riverpod MVVM) citizen apps and ASP.NET Core Clean Architecture APIs; tuned SQL Server queries to cut IoT retrieval latency by **35%**.
+- **Web Engineering Intern · Direction Provinciale de l'Équipement** *(2023, Morocco)* — Built an internal Django portal with RBAC workflows and Pandas/NumPy reporting, deployed on Windows Server + IIS.
+
+---
+
+## 🧰 Technical Stack
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=py,pytorch,cs,dotnet,java,dart,flutter,django,spring,ts,angular,postgres,mysql,firebase,docker,linux,git,github&perline=9" alt="Python, PyTorch, C#, .NET, Java, Dart, Flutter, Django, Spring, TypeScript, Angular, PostgreSQL, MySQL, Firebase, Docker, Linux, Git, GitHub">
 </p>
 
-![LightGBM](https://img.shields.io/badge/LightGBM-2C7BB6?style=flat-square)
-![pandas](https://img.shields.io/badge/pandas-150458?style=flat-square&logo=pandas&logoColor=white)
-![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white)
-![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=flat-square&logo=jupyter&logoColor=white)
-![Google Colab](https://img.shields.io/badge/Google%20Colab%20GPUs-F9AB00?style=flat-square&logo=googlecolab&logoColor=white)
-![pvlib](https://img.shields.io/badge/pvlib-E8890C?style=flat-square)
-![Satellite data](https://img.shields.io/badge/Himawari%20%7C%20Meteosat%20SEVIRI-0F766E?style=flat-square)
-![NWP](https://img.shields.io/badge/NWP%20%28GRIB%29%20%7C%20ERA5-334155?style=flat-square)
-
-## 🔬 Research & Studies in Progress
-
-- **BriefCensus: A short metering campaign that chooses permanent monitors for rooftop photovoltaic fleet estimation and forecasting** – open code, protocol & run logs (Zenodo DOI: [10.5281/zenodo.23950665](https://doi.org/10.5281/zenodo.23950665), 2026)
-- **Reference specification, model updating and calibration population in hourly photovoltaic power forecasting** – working on paper (2026)
-- **When do probabilistic solar forecasts earn their keep? Forecast quality, distributional validity and operational value in behind-the-meter battery scheduling** – working on paper (2026)
-- **Multi-site satellite and numerical weather prediction fusion across 50 solar farms** – working on paper (2026)
-- **Sky-image nowcasting evaluation with Stanford SKIPP'D dataset** – working on paper (2026)
-
-## 📂 Featured Code & Repositories
-
-- ☀️ **[briefcensus](https://github.com/Oussi108/briefcensus)** — A short metering campaign that chooses permanent monitors for rooftop photovoltaic fleet estimation and forecasting · [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.23950665.svg)](https://doi.org/10.5281/zenodo.23950665)
-- ☀️ **[pv-forecast-reference-evaluation](https://github.com/Oussi108/pv-forecast-reference-evaluation)** — Reference specifications & benchmarks for hourly PV power forecasting with reproducible evaluation suites · [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.23590205.svg)](https://doi.org/10.5281/zenodo.23590205)
-- 💻 **Software Engineering Projects:** [HomeRealm](https://github.com/Oussi108/HomeRealm) · [Expression-Compiler-In-CSharp](https://github.com/Oussi108/Expression-Compiler-In-CSharp) · [taskwithauthdotnet](https://github.com/Oussi108/taskwithauthdotnet) · [Project_petshop_JEE](https://github.com/Oussi108/Project_petshop_JEE) · [MapWithAuth](https://github.com/Oussi108/MapWithAuth)
+| Domain | Technologies & Methods |
+|---|---|
+| **ML & Scientific Computing** | `Python` · `PyTorch` · `LightGBM` · `XGBoost` · `scikit-learn` · `pvlib` · `pandas` · `NumPy` · `ERA5 NWP (GRIB)` · `Himawari / Meteosat SEVIRI` |
+| **Backend & Architecture** | `C#` · `ASP.NET Core` · `Entity Framework Core` · `Django` · `Spring Boot` · `Java` · `Clean Architecture` · `DDD` · `RESTful APIs` · `JWT / RBAC` |
+| **Mobile & Frontend** | `Flutter` · `Dart` · `Riverpod (MVVM)` · `Firebase` · `Angular` · `Ionic` · `Capacitor` · `TypeScript` · `HTML / CSS` |
+| **Data, DevOps & Testing** | `PostgreSQL` · `SQL Server` · `MySQL` · `SQLite` · `MongoDB` · `Docker` · `Git` · `GitHub Actions` · `Linux / Bash` · `pytest` · `CI/CD` |
+| **Spoken Languages** | Arabic *(Native)* · Tamazight *(Native)* · English *(Fluent / Research)* · French *(Proficient)* · Mandarin Chinese *(HSK 3)* |
 
 ---
 
 <div align="center">
-<sub>Open to software engineering roles, technical collaborations, and research inquiries – feel free to reach out.</sub>
+<sub>Explore interactive research visualizations and project demos at <a href="https://oussi108.github.io/"><b>oussi108.github.io</b></a> · Reach out at <a href="mailto:oussi108@gmail.com"><b>oussi108@gmail.com</b></a></sub>
 </div>

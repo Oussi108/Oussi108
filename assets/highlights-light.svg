@@ -1,0 +1,34 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="122" viewBox="0 0 1200 122">
+  <g transform="translate(0, 2)">
+    <rect width="285" height="118" rx="12" fill="#FFFFFF" stroke="#DDD6C8" stroke-width="1.3"/>
+    <path d="M 12 1 H 273" stroke="#B84A0B" stroke-width="3" stroke-linecap="round"/>
+    <rect x="18" y="16" width="114" height="20" rx="10" fill="#F9EADB"/>
+    <text x="26" y="30" font-family="'IBM Plex Mono', ui-monospace, Consolas, monospace" font-size="10" font-weight="600" fill="#B84A0B" letter-spacing="0.5">RESEARCH SCALE</text>
+    <text x="18" y="72" font-family="Georgia, 'Times New Roman', serif" font-size="27" font-weight="700" fill="#191815">144 Solar Farms</text>
+    <text x="18" y="98" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="12.5" fill="#6B675E">50 AU (AEMO) · 94 UK · 5 studies</text>
+  </g>
+  <g transform="translate(305, 2)">
+    <rect width="285" height="118" rx="12" fill="#FFFFFF" stroke="#DDD6C8" stroke-width="1.3"/>
+    <path d="M 12 1 H 273" stroke="#0E6F6E" stroke-width="3" stroke-linecap="round"/>
+    <rect x="18" y="16" width="128" height="20" rx="10" fill="#E2F2F0"/>
+    <text x="26" y="30" font-family="'IBM Plex Mono', ui-monospace, Consolas, monospace" font-size="10" font-weight="600" fill="#0E6F6E" letter-spacing="0.5">EMPIRICAL IMPACT</text>
+    <text x="18" y="72" font-family="Georgia, 'Times New Roman', serif" font-size="27" font-weight="700" fill="#191815">~80% Gain Kept</text>
+    <text x="18" y="98" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="12.5" fill="#6B675E">4-wk BriefCensus · 40/40 homes saved</text>
+  </g>
+  <g transform="translate(610, 2)">
+    <rect width="285" height="118" rx="12" fill="#FFFFFF" stroke="#DDD6C8" stroke-width="1.3"/>
+    <path d="M 12 1 H 273" stroke="#B84A0B" stroke-width="3" stroke-linecap="round"/>
+    <rect x="18" y="16" width="100" height="20" rx="10" fill="#F9EADB"/>
+    <text x="26" y="30" font-family="'IBM Plex Mono', ui-monospace, Consolas, monospace" font-size="10" font-weight="600" fill="#B84A0B" letter-spacing="0.5">OPEN SCIENCE</text>
+    <text x="18" y="72" font-family="Georgia, 'Times New Roman', serif" font-size="27" font-weight="700" fill="#191815">2 Zenodo DOIs</text>
+    <text x="18" y="98" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="12.5" fill="#6B675E">Pre-registered · SHA-256 verified</text>
+  </g>
+  <g transform="translate(915, 2)">
+    <rect width="285" height="118" rx="12" fill="#FFFFFF" stroke="#DDD6C8" stroke-width="1.3"/>
+    <path d="M 12 1 H 273" stroke="#0E6F6E" stroke-width="3" stroke-linecap="round"/>
+    <rect x="18" y="16" width="135" height="20" rx="10" fill="#E2F2F0"/>
+    <text x="26" y="30" font-family="'IBM Plex Mono', ui-monospace, Consolas, monospace" font-size="10" font-weight="600" fill="#0E6F6E" letter-spacing="0.5">ENGINEERING STACK</text>
+    <text x="18" y="72" font-family="Georgia, 'Times New Roman', serif" font-size="27" font-weight="700" fill="#191815">Full-Stack + ML</text>
+    <text x="18" y="98" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="12.5" fill="#6B675E">Python · C#/.NET · Flutter · Docker</text>
+  </g>
+</svg>
